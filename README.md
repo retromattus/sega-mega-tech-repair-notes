@@ -11,3 +11,9 @@
 |18|220-5253|SE 1273|1|Magnetic Lock Master W/O Keys|Sega/Miwa 5253 Lock|
 |19|220-5254|SE 0906|2|Key Master for 220-5253|Sega/Miwa 5253 Key|
 |26||CM 0711|1|Assy Coin Mech & Chute Sentinal 4 Way|Coin Controls Sentinel Electronic Coin Mech C220 [Manual](Manuals/Sentinel+Tech+Manual+V0.pdf)|
+
+
+## Cartridge label sizes
+
+**Front** - 80 x 72 mm
+**Back** - 80 x 24 mm
