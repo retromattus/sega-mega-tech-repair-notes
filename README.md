@@ -14,29 +14,27 @@
 
 
 
-# Games
-
-Released
-
+# Known Released Games
 
 171-5782 - megadrive
 171-5783 - master system
+171-5784 - master system with mapping chip
 
 
 |Name|Copyright|Serial number|Board number|Notes|
 |--|--|--|--|--|
-|After Burner|1989|610-0239-10|512KB|SMS based|
-|Alien Storm|June 1991|610-0239-47|512KB|Megadrive|
-|Alien Syndrome|1989|610-0239-07|256KB|SMS based|
-|Altered Beast|1989|610-0239-01|512KB|Megadrive
-|Arnold Palmer Tournament Golf|1989|610-0239-31|512KB|Megadrive
-|Arrow Flash|1990|610-0239-44|
-|Astro Warrior|1989|610-0239-13|
-|Bonanza Bros.|July 1991|610-0239-49|1MB|Megadrive
-|California Games|1992|610-0239-55|
-|Columns|April 1990|610-0239-36|512KB|Megadrive
-|Crack Down|1990|610-0239-41|
-|Cyber Police E-SWAT|1990|610-0239-38|
+|After Burner|1989|610-0239-10|171-5784|512KB (SMS)|
+|Alien Storm|June 1991*|610-0239-47||512KB (Megadrive)|
+|Alien Syndrome|1989|610-0239-07||256KB (SMS)|
+|Altered Beast|January 1989*|610-0239-01||512KB (Megadrive)|
+|Arnold Palmer Tournament Golf|June 1989*|610-0239-31||512KB (Megadrive)|
+|Arrow Flash|July 1990*|610-0239-44||512KB (Megadrive)|
+|Astro Warrior|1989|610-0239-13||128KB (SMS)|
+|Bonanza Bros.|July 1991*|610-0239-49||1MB (Megadrive)|
+|California Games|August 1991*|610-0239-55||256KBx2 (Megadrive)|
+|Columns|April 1990*|610-0239-36||512KB (Megadrive)|
+|Crack Down|October 1990*|610-0239-41||512KB (Megadrive)|
+|Cyber Police E-SWAT|March 1990*|610-0239-38||512KB (Megadrive)|
 |Fantasy Zone|1989|610-0239-09|
 |Fire Shark|1990|610-0239-53|
 |Forgotten Worlds|1989|610-0239-26|
@@ -56,7 +54,7 @@ Released
 |Parlour Games|1989|610-0239-29|
 |Shadow Dancer|1990|610-0239-43|
 |Shinobi|1989|610-0239-08|
-|Sonic The Hedgehog|1991|610-0239-52
+|Sonic The Hedgehog|April 1991*|610-0239-52||512KB (Megadrive)|
 |Sonic The Hedgehog 2|1992|610-0239-62|
 |Space Harrier II|1989|610-0239-02|
 |Spider-Man Vs. The Kingpin|1991|610-0239-54|
@@ -78,6 +76,7 @@ Released
 |World Championship Soccer|1990|610-0239-21|
 |Tommy Lasorda Baseball|1990|610-0239-35|
 
+*Copyright number based on ROM file
 
 ## Writing cartridges
 
