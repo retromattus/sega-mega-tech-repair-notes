@@ -46,7 +46,7 @@
 |Great Soccer|1989|610-0239-05||128KB (SMS)
 |Joe Montana II — Sports Talk Football|September 1991*|610-0239-58||1MB (Megadrive)|
 |Kid Chameleon|December 1991*|610-0239-60||1MB (Megadrive)|
-|Last Battle (Legend of the Final Hero)|1989|610-0239-20|
+|Last Battle (Legend of the Final Hero)|1989|610-0239-20||512KB (Megadrive)|
 |Mario Lemieux Hockey|1991|610-0239-59|
 |Moonwalker|1990|610-0239-40|
 |Mystic Defender|1989|610-0239-27|
