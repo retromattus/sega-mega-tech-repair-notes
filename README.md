@@ -31,21 +31,21 @@
 |Arrow Flash|July 1990*|610-0239-44||512KB (Megadrive)|
 |Astro Warrior|1989|610-0239-13||128KB (SMS)|
 |Bonanza Bros.|July 1991*|610-0239-49||1MB (Megadrive)|
-|California Games|August 1991*|610-0239-55||256KBx2 (Megadrive)|
+|California Games|August 1991*|610-0239-55||256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|
 |Columns|April 1990*|610-0239-36||512KB (Megadrive)|
 |Crack Down|October 1990*|610-0239-41||512KB (Megadrive)|
 |Cyber Police E-SWAT|March 1990*|610-0239-38||512KB (Megadrive)|
-|Fantasy Zone|1989|610-0239-09|
-|Fire Shark|1990|610-0239-53|
-|Forgotten Worlds|1989|610-0239-26|
-|Ghouls 'n Ghosts|1989|610-0239-23|
-|Golden Axe|1989√|610-0239-25|512KB|Megadrive
-|Golden Axe II|1991|610-0239-57|
-|Great Football|1989|610-0239-19|
-|Great Golf|1989|610-0239-04|
-|Great Soccer|1989|610-0239-05|
-|Joe Montana II — Sports Talk Football|1992|610-0239-58|
-|Kid Chameleon|1992|610-0239-60|
+|Fantasy Zone|1989|610-0239-09||128KB (SMS)|
+|Fire Shark|August 1990*|610-0239-53||512KB (Megadrive)|
+|Forgotten Worlds|September 1989*|610-0239-26||512KB (Megadrive). ROM files byte reversed|
+|Ghouls'n Ghosts|1989|610-0239-23||128KB+512KB (Megadrive)|
+|Golden Axe|October 1989*|610-0239-25||512KB (Megadrive)|
+|Golden Axe II|October 1991*|610-0239-57||512KB (Megadrive)|
+|Great Football|1989|610-0239-19||128KB (SMS)
+|Great Golf|1989|610-0239-04||128KB (SMS)
+|Great Soccer|1989|610-0239-05||128KB (SMS)
+|Joe Montana II — Sports Talk Football|September 1991*|610-0239-58||1MB (Megadrive)|
+|Kid Chameleon|December 1991*|610-0239-60||1MB (Megadrive)|
 |Last Battle (Legend of the Final Hero)|1989|610-0239-20|
 |Mario Lemieux Hockey|1991|610-0239-59|
 |Moonwalker|1990|610-0239-40|
