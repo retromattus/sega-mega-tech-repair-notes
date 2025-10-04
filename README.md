@@ -13,7 +13,73 @@
 |26||CM 0711|1|Assy Coin Mech & Chute Sentinal 4 Way|Coin Controls Sentinel Electronic Coin Mech C220 [Manual](Manuals/Sentinel+Tech+Manual+V0.pdf)|
 
 
-# Writing cartridges
+
+# Games
+
+Released
+
+
+171-5782 - megadrive
+171-5783 - master system
+
+
+|Name|Copyright|Serial number|Board number|Notes|
+|--|--|--|--|--|
+|After Burner|1989|610-0239-10|512KB|SMS based|
+|Alien Storm|June 1991|610-0239-47|512KB|Megadrive|
+|Alien Syndrome|1989|610-0239-07|256KB|SMS based|
+|Altered Beast|1989|610-0239-01|512KB|Megadrive
+|Arnold Palmer Tournament Golf|1989|610-0239-31|512KB|Megadrive
+|Arrow Flash|1990|610-0239-44|
+|Astro Warrior|1989|610-0239-13|
+|Bonanza Bros.|July 1991|610-0239-49|1MB|Megadrive
+|California Games|1992|610-0239-55|
+|Columns|April 1990|610-0239-36|512KB|Megadrive
+|Crack Down|1990|610-0239-41|
+|Cyber Police E-SWAT|1990|610-0239-38|
+|Fantasy Zone|1989|610-0239-09|
+|Fire Shark|1990|610-0239-53|
+|Forgotten Worlds|1989|610-0239-26|
+|Ghouls 'n Ghosts|1989|610-0239-23|
+|Golden Axe|1989√|610-0239-25|512KB|Megadrive
+|Golden Axe II|1991|610-0239-57|
+|Great Football|1989|610-0239-19|
+|Great Golf|1989|610-0239-04|
+|Great Soccer|1989|610-0239-05|
+|Joe Montana II — Sports Talk Football|1992|610-0239-58|
+|Kid Chameleon|1992|610-0239-60|
+|Last Battle (Legend of the Final Hero)|1989|610-0239-20|
+|Mario Lemieux Hockey|1991|610-0239-59|
+|Moonwalker|1990|610-0239-40|
+|Mystic Defender|1989|610-0239-27|
+|OutRun|1989|610-0239-06|
+|Parlour Games|1989|610-0239-29|
+|Shadow Dancer|1990|610-0239-43|
+|Shinobi|1989|610-0239-08|
+|Sonic The Hedgehog|1991|610-0239-52
+|Sonic The Hedgehog 2|1992|610-0239-62|
+|Space Harrier II|1989|610-0239-02|
+|Spider-Man Vs. The Kingpin|1991|610-0239-54|
+|Streets of Rage|1991|610-0239-51|
+|Super Hang-On|1989|610-0239-24|
+|Super League|||
+|Super Monaco GP|1990|610-0239-39|
+|Super Real Basketball|1990|610-0239-32|
+|Super Thunder Blade|1989|610-0239-03|
+|Tetris|1989|610-0239-22|
+|The Revenge of Shinobi|1989|610-0239-28|
+|Thunder Force II|1989|610-0239-11|
+|Turbo OutRun|1992|610-0239-61|
+|Turbo OutRun|1992|610-0239-61|
+|World Cup Soccer|||
+|Wrestle War|||
+
+
+|World Championship Soccer|1990|610-0239-21|
+|Tommy Lasorda Baseball|1990|610-0239-35|
+
+
+## Writing cartridges
 
 For 27C400 chips (512k ROM files)
 
