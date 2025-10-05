@@ -47,17 +47,17 @@
 |Joe Montana II — Sports Talk Football|September 1991*|610-0239-58||1MB (Megadrive)|
 |Kid Chameleon|December 1991*|610-0239-60||1MB (Megadrive)|
 |Last Battle (Legend of the Final Hero)|1989|610-0239-20||512KB (Megadrive)|
-|Mario Lemieux Hockey|1991|610-0239-59|
-|Moonwalker|1990|610-0239-40|
-|Mystic Defender|1989|610-0239-27|
-|OutRun|1989|610-0239-06|
-|Parlour Games|1989|610-0239-29|
-|Shadow Dancer|1990|610-0239-43|
-|Shinobi|1989|610-0239-08|
+|Mario Lemieux Hockey|September 1991*|610-0239-59||512KB (Megadrive)|
+|Michael Jackson's Moonwalker|July 1990*|610-0239-40||512KB (Megadrive)|
+|Mystic Defender|August 1989*|610-0239-27||512KB (Megadrive)|
+|OutRun|1989|610-0239-06||256KB (SMS)|
+|Parlour Games|1989|610-0239-29||128KB (SMS)|
+|Shadow Dancer|December 1990*|610-0239-43||512KB (Megadrive)|
+|Shinobi|1989|610-0239-08||256KB (SMS)|
 |Sonic The Hedgehog|April 1991*|610-0239-52||512KB (Megadrive)|
-|Sonic The Hedgehog 2|1992|610-0239-62|
-|Space Harrier II|1989|610-0239-02|
-|Spider-Man Vs. The Kingpin|1991|610-0239-54|
+|Sonic The Hedgehog 2|September 1992*|610-0239-62||1MB (Megadrive)|
+|Space Harrier II|August 1988*|610-0239-02||512KB (Megadrive)|
+|Spider-Man Vs. The Kingpin|April 1991*|610-0239-54||512KB (Megadrive)|
 |Streets of Rage|1991|610-0239-51|
 |Super Hang-On|1989|610-0239-24|
 |Super League|||
@@ -76,7 +76,7 @@
 |World Championship Soccer|1990|610-0239-21|
 |Tommy Lasorda Baseball|1990|610-0239-35|
 
-*Copyright number based on ROM file
+*Copyright based on contents of ROM file
 
 ## Writing cartridges
 
