@@ -34,7 +34,7 @@
 |Columns|April 1990*|610-0239-36||512KB (Megadrive)|
 |Crack Down|October 1990*|610-0239-41||512KB (Megadrive)|
 |Cyber Police E-SWAT|March 1990*|610-0239-38||512KB (Megadrive)|
-|Fantasy Zone|1989|610-0239-09|171-5783|128KB (SMS)|
+|Fantasy Zone|1989|610-0239-09|171-5783|128KB (SMS)|IC1 MPR-10118<br>IC2 EPR-12368-09|
 |Fire Shark|August 1990*|610-0239-53||512KB (Megadrive)|
 |Forgotten Worlds|September 1989*|610-0239-26||512KB (Megadrive). ROM files byte reversed|
 |Ghouls'n Ghosts|1989|610-0239-23||128KB+512KB (Megadrive)|
