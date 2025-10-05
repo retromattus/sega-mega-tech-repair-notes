@@ -20,10 +20,9 @@
 171-5783 - master system
 171-5784 - master system with mapping chip
 
-
-|Name|Copyright|Serial number|Board number|Notes|
-|--|--|--|--|--|
-|After Burner|1989|610-0239-10|171-5784|512KB (SMS)|
+|Name|Copyright|Serial number|Board number|Notes||
+|--|--|--|--|--|--|
+|After Burner|1989|610-0239-10|171-5784|512KB (SMS)|IC1 315-5235<br>IC2 MPR-11271<br>IC3 EPR-12368-10|
 |Alien Storm|June 1991*|610-0239-47||512KB (Megadrive)|
 |Alien Syndrome|1989|610-0239-07||256KB (SMS)|
 |Altered Beast|January 1989*|610-0239-01||512KB (Megadrive)|
@@ -39,7 +38,7 @@
 |Fire Shark|August 1990*|610-0239-53||512KB (Megadrive)|
 |Forgotten Worlds|September 1989*|610-0239-26||512KB (Megadrive). ROM files byte reversed|
 |Ghouls'n Ghosts|1989|610-0239-23||128KB+512KB (Megadrive)|
-|Golden Axe|October 1989*|610-0239-25||512KB (Megadrive)|
+|Golden Axe|October 1989*|610-0239-25||512KB (Megadrive)|IC1 MPR-12806F<br>IC2 EPR-12368-25|
 |Golden Axe II|October 1991*|610-0239-57||512KB (Megadrive)|
 |Great Football|1989|610-0239-19||128KB (SMS)
 |Great Golf|1989|610-0239-04||128KB (SMS)
@@ -51,30 +50,25 @@
 |Michael Jackson's Moonwalker|July 1990*|610-0239-40||512KB (Megadrive)|
 |Mystic Defender|August 1989*|610-0239-27||512KB (Megadrive)|
 |OutRun|1989|610-0239-06||256KB (SMS)|
-|Parlour Games|1989|610-0239-29||128KB (SMS)|
+|Parlour Games|1989|610-0239-29|171-5783|128KB (SMS)|IC1 MPR-11404F<br>IC2 EPR-12368-29|
 |Shadow Dancer|December 1990*|610-0239-43||512KB (Megadrive)|
 |Shinobi|1989|610-0239-08||256KB (SMS)|
 |Sonic The Hedgehog|April 1991*|610-0239-52||512KB (Megadrive)|
 |Sonic The Hedgehog 2|September 1992*|610-0239-62||1MB (Megadrive)|
 |Space Harrier II|August 1988*|610-0239-02||512KB (Megadrive)|
 |Spider-Man Vs. The Kingpin|April 1991*|610-0239-54||512KB (Megadrive)|
-|Streets of Rage|1991|610-0239-51|
-|Super Hang-On|1989|610-0239-24|
-|Super League|||
-|Super Monaco GP|1990|610-0239-39|
-|Super Real Basketball|1990|610-0239-32|
-|Super Thunder Blade|1989|610-0239-03|
-|Tetris|1989|610-0239-22|
-|The Revenge of Shinobi|1989|610-0239-28|
-|Thunder Force II|1989|610-0239-11|
-|Turbo OutRun|1992|610-0239-61|
-|Turbo OutRun|1992|610-0239-61|
-|World Cup Soccer|||
-|Wrestle War|||
-
-
-|World Championship Soccer|1990|610-0239-21|
-|Tommy Lasorda Baseball|1990|610-0239-35|
+|Streets of Rage|May 1991*|610-0239-51||512KB (Megadrive)|
+|Super Hang-On|July 1989*|610-0239-24||512KB (Megadrive)|
+|Super Monaco GP|June 1990*|610-0239-39||512KB (Megadrive)|
+|Super Real Basketball|January 1989*|610-0239-32||512KB (Megadrive). ROM not reversed|
+|Super Thunder Blade|August 1988*|610-0239-03||512KB (Megadrive)|
+|Tetris|January 1989|610-0239-22||128KBx2 (Megadrive). Interlacing ROM files into single 256KB file works.|
+|The Revenge of Shinobi|September 1989*|610-0239-28||512KB (Megadrive)|
+|Thunder Force II|April 1989*|610-0239-11||512KB (Megadrive)|
+|Tommy Lasorda Baseball (aka Super League)|May 1989*|610-0239-35||512KB (Megadrive)|
+|Turbo OutRun|December 1991*|610-0239-61||512KB (Megadrive)|
+|World Championship Soccer|May 1989*|610-0239-21|171-5782|512KB (Megadrive)|IC1 MPR-12607B<br>IC2 EPR-12368-21|
+|Wrestle War|1991*|||512KB (Megadrive)|
 
 *Copyright based on contents of ROM file
 
