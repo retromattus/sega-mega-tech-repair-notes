@@ -16,11 +16,14 @@
 
 # Known Released Games
 
-171-5782 - megadrive
-171-5783 - master system
-171-5784 - after burner - master system with mapping chip
-171-5834 - californa games & tetris
-171-6215A - sonic 2
+|PCB|Year|Notes|
+|--|--|--|
+|171-5782|1989|megadrive|
+|171-5783|1989|master system|
+|171-5784|1989|after burner - master system with 315-5235 mapping chip|
+|171-5834|1989|californa games & tetris|
+|171-5869A|1989|ghouls'n ghosts|
+|171-6215A|1991|sonic 2|
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
@@ -31,15 +34,15 @@
 |Arnold Palmer Tournament Golf|June 1989*|610-0239-31<br>837-6963-31|171-5782|512KB (Megadrive)|
 |Arrow Flash|July 1990*|610-0239-44||512KB (Megadrive)|
 |Astro Warrior|1989|610-0239-13||128KB (SMS)|
-|Bonanza Bros.|July 1991*|610-0239-49<837-6963-49>|171-5782|1MB (Megadrive)|
+|Bonanza Bros.|July 1991*|610-0239-49<br>837-6963-49|171-5782|1MB (Megadrive)|
 |California Games|August 1991*|610-0239-55<br>837-6963-55-01|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|
 |Columns|April 1990*|610-0239-36||512KB (Megadrive)|
 |Crack Down|October 1990*|610-0239-41||512KB (Megadrive)|
 |Cyber Police E-SWAT|March 1990*|610-0239-38<br>837-6963-38|171-5782|512KB (Megadrive)|
-|Fantasy Zone|1989|610-0239-09|171-5783|128KB (SMS)|IC1 MPR-10118<br>IC2 EPR-12368-09|
+|Fantasy Zone|1989|610-0239-09<br>837-6963-09|171-5783|128KB (SMS)|IC1 MPR-10118<br>IC2 EPR-12368-09|
 |Fire Shark|August 1990*|610-0239-53||512KB (Megadrive)|
 |Forgotten Worlds|September 1989*|610-0239-26<br>837-6963-26|171-5782|512KB (Megadrive). ROM files byte reversed|
-|Ghouls'n Ghosts|1989|610-0239-23||128KB+512KB (Megadrive)|
+|Ghouls'n Ghosts|1989|610-0239-23|171-5869A|128KB+512KB (Megadrive)|
 |Golden Axe|October 1989*|610-0239-25||512KB (Megadrive)|IC1 MPR-12806F<br>IC2 EPR-12368-25|
 |Golden Axe II|October 1991*|610-0239-57||512KB (Megadrive)|
 |Great Football|1989|610-0239-19<br>837-6963-19|171-5783|128KB (SMS)
@@ -52,9 +55,9 @@
 |Michael Jackson's Moonwalker|July 1990*|610-0239-40<br>837-6963-40|171-5782|512KB (Megadrive)|
 |Mystic Defender|August 1989*|610-0239-27||512KB (Megadrive)|
 |OutRun|1989|610-0239-06<br>837-6963-06|171-5783|256KB (SMS)|
-|Parlour Games|1989|610-0239-29|171-5783|128KB (SMS)|IC1 MPR-11404F<br>IC2 EPR-12368-29|
+|Parlour Games|1989|610-0239-29<br>837-6963-29|171-5783|128KB (SMS)|IC1 MPR-11404F<br>IC2 EPR-12368-29|
 |Shadow Dancer|December 1990*|610-0239-43<br>837-6963-43|171-5782|512KB (Megadrive)|
-|Shinobi|1989|610-0239-08||256KB (SMS)|
+|Shinobi|1989|610-0239-08<br>837-6963-08|171-5783|256KB (SMS)|
 |Sonic The Hedgehog|April 1991*|610-0239-52<br>837-6963-52|171-5782|512KB (Megadrive)|
 |Sonic The Hedgehog 2|September 1992*|610-0239-62<br>837-6963-62|171-6215A|1MB (Megadrive)|
 |Space Harrier II|August 1988*|610-0239-02<br>837-6963-02|171-5782|512KB (Megadrive)|
