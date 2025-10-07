@@ -27,7 +27,7 @@
 |After Burner|1989|610-0239-10<br>837-6963-10|171-5784|512KB (SMS)|IC1 315-5235<br>IC2 MPR-11271<br>IC3 EPR-12368-10|
 |Alien Storm|June 1991*|610-0239-47||512KB (Megadrive)|
 |Alien Syndrome|1989|610-0239-07<br>837-6963-07|171-5783|256KB (SMS)|
-|Altered Beast|January 1989*|610-0239-01<837-6963-01>|171-5782|512KB (Megadrive)|
+|Altered Beast|January 1989*|610-0239-01<br>837-6963-01|171-5782|512KB (Megadrive)|
 |Arnold Palmer Tournament Golf|June 1989*|610-0239-31<br>837-6963-31|171-5782|512KB (Megadrive)|
 |Arrow Flash|July 1990*|610-0239-44||512KB (Megadrive)|
 |Astro Warrior|1989|610-0239-13||128KB (SMS)|
