@@ -18,12 +18,12 @@
 
 |PCB|Year|Notes|
 |--|--|--|
-|171-5782|1989|megadrive|
-|171-5783|1989|master system|
-|171-5784|1989|after burner - master system with 315-5235 mapping chip|
-|171-5834|1989|californa games & tetris|
-|171-5869A|1989|ghouls'n ghosts|
-|171-6215A|1991|sonic 2|
+|171-5782|1989|2 ROMs. Megadrive|
+|171-5783|1989|2 ROMs. Master system|
+|171-5784|1989|2 ROMs and a 315-5235 mapping chip. After Burner|
+|171-5834|1989|3 ROMs. Californa Games & Tetris|
+|171-5869A|1989|3 ROMs. Ghouls'n Ghosts|
+|171-6215A|1991|2 ROMs. Sonic 2|
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
