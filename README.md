@@ -27,53 +27,53 @@
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
-|After Burner|1989|610-0239-10<br>837-6963-10|171-5784|512KB (SMS)|IC1 315-5235<br>IC2 MPR-11271<br>IC3 EPR-12368-10|
+|After Burner|1989|610-0239-10<br>837-6963-10|171-5784|512KB (SMS)|IC1 315-5235<br>IC2 MPR-11271-T<br>IC3 EPR-12368-10|
 |Alien Storm|June 1991*|610-0239-47||512KB (Megadrive)|
-|Alien Syndrome|1989|610-0239-07<br>837-6963-07|171-5783|256KB (SMS)|
-|Altered Beast|January 1989*|610-0239-01<br>837-6963-01|171-5782|512KB (Megadrive)|
-|Arnold Palmer Tournament Golf|June 1989*|610-0239-31<br>837-6963-31|171-5782|512KB (Megadrive)|
+|Alien Syndrome|1989|610-0239-07<br>837-6963-07|171-5783|256KB (SMS)|IC1 MPR-11194<br>IC2 EPR-12368-07|
+|Altered Beast|January 1989*|610-0239-01<br>837-6963-01|171-5782|512KB (Megadrive)|IC1 MPR-12538F<br>IC2 EPR-12368-01|
+|Arnold Palmer Tournament Golf|June 1989*|610-0239-31<br>837-6963-31|171-5782|512KB (Megadrive)|IC1 MPR-12645F<br>IC2 EPR-12368-31|
 |Arrow Flash|July 1990*|610-0239-44||512KB (Megadrive)|
 |Astro Warrior|1989|610-0239-13||128KB (SMS)|
-|Bonanza Bros.|July 1991*|610-0239-49<br>837-6963-49|171-5782|1MB (Megadrive)|
-|California Games|August 1991*|610-0239-55<br>837-6963-55-01|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|
+|Bonanza Bros.|July 1991*|610-0239-49<br>837-6963-49|171-5782|1MB (Megadrive)|IC1 MPR-13905A-F<br>IC2 EPR-12368-49|
+|California Games|August 1991*|610-0239-55<br>837-6963-55-01|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EPR-14494<br>IC2 EPR-14495<br>IC3 EPR-12368-55|
 |Columns|April 1990*|610-0239-36||512KB (Megadrive)|
 |Crack Down|October 1990*|610-0239-41||512KB (Megadrive)|
-|Cyber Police E-SWAT|March 1990*|610-0239-38<br>837-6963-38|171-5782|512KB (Megadrive)|
+|Cyber Police ESWAT|March 1990*|610-0239-38<br>837-6963-38|171-5782|512KB (Megadrive)|IC1 MPR-13192-H<br>IC2 EPR-12368-38|
 |Fantasy Zone|1989|610-0239-09<br>837-6963-09|171-5783|128KB (SMS)|IC1 MPR-10118<br>IC2 EPR-12368-09|
 |Fire Shark|August 1990*|610-0239-53||512KB (Megadrive)|
-|Forgotten Worlds|September 1989*|610-0239-26<br>837-6963-26|171-5782|512KB (Megadrive). ROM files byte reversed|
-|Ghouls'n Ghosts|1989|610-0239-23|171-5869A|128KB+512KB (Megadrive)|
+|Forgotten Worlds|September 1989*|610-0239-26<br>837-6963-26|171-5782|512KB (Megadrive). ROM files byte reversed|IC1 MPR-12672-H<br>IC2 EPR-12368-26|
+|Ghouls'n Ghosts|1989|610-0239-23|171-5869A|128KB+512KB (Megadrive)|IC1 MPR-12605<br>IC2 MPR-12606<br>IC3 EPR-12368-23|
 |Golden Axe|October 1989*|610-0239-25||512KB (Megadrive)|IC1 MPR-12806F<br>IC2 EPR-12368-25|
 |Golden Axe II|October 1991*|610-0239-57||512KB (Megadrive)|
-|Great Football|1989|610-0239-19<br>837-6963-19|171-5783|128KB (SMS)
+|Great Football|1989|610-0239-19<br>837-6963-19|171-5783|128KB (SMS)|IC1 MPR-10576F<br>IC2 EPR-12368-19|
 |Great Golf|1989|610-0239-04||128KB (SMS)
 |Great Soccer|1989|610-0239-05||128KB (SMS)
 |Joe Montana II — Sports Talk Football|September 1991*|610-0239-58||1MB (Megadrive)|
 |Kid Chameleon|December 1991*|610-0239-60||1MB (Megadrive)|
 |Last Battle (Legend of the Final Hero)|1989|610-0239-20||512KB (Megadrive)|
-|Mario Lemieux Hockey|September 1991*|610-0239-59<br>837-6963-59|171-5782|512KB (Megadrive)|
-|Michael Jackson's Moonwalker|July 1990*|610-0239-40<br>837-6963-40|171-5782|512KB (Megadrive)|
+|Mario Lemieux Hockey|September 1991*|610-0239-59<br>837-6963-59|171-5782|512KB (Megadrive)|IC1 MPR-14376-H<br>IC2 EPR-12368-59|
+|Michael Jackson's Moonwalker|July 1990*|610-0239-40<br>837-6963-40|171-5782|512KB (Megadrive)|IC1 MPR-13285A-F<br>IC2 EPR-12368-40|
 |Mystic Defender|August 1989*|610-0239-27||512KB (Megadrive)|
-|OutRun|1989|610-0239-06<br>837-6963-06|171-5783|256KB (SMS)|
+|OutRun|1989|610-0239-06<br>837-6963-06|171-5783|256KB (SMS)|IC1 MPR-11078<br>IC2 EPR-12368-06|
 |Parlour Games|1989|610-0239-29<br>837-6963-29|171-5783|128KB (SMS)|IC1 MPR-11404F<br>IC2 EPR-12368-29|
-|Shadow Dancer|December 1990*|610-0239-43<br>837-6963-43|171-5782|512KB (Megadrive)|
+|Shadow Dancer|December 1990*|610-0239-43<br>837-6963-43|171-5782|512KB (Megadrive)|IC1 MPR-13571-S<br>IC2 EPR-12368-43|
 |Shinobi|1989|610-0239-08<br>837-6963-08|171-5783|256KB (SMS)|
-|Sonic The Hedgehog|April 1991*|610-0239-52<br>837-6963-52|171-5782|512KB (Megadrive)|
-|Sonic The Hedgehog 2|September 1992*|610-0239-62<br>837-6963-62|171-6215A|1MB (Megadrive)|
-|Space Harrier II|August 1988*|610-0239-02<br>837-6963-02|171-5782|512KB (Megadrive)|
-|Spider-Man Vs. The Kingpin|April 1991*|610-0239-54<br>837-6963-02|171-5782|512KB (Megadrive)|
-|Streets of Rage|May 1991*|610-0239-51<br>837-6963-51|171-5782|512KB (Megadrive)|
-|Super Hang-On|July 1989*|610-0239-24<br>837-6963-24|171-5782|512KB (Megadrive)|
+|Sonic The Hedgehog|April 1991*|610-0239-52<br>837-6963-52|171-5782|512KB (Megadrive)|IC1 MPR-13913-F<br>IC2 EPR-12368-52|
+|Sonic The Hedgehog 2|September 1992*|610-0239-62<br>837-6963-62|171-6215A|1MB (Megadrive)|IC1 MPR-15000A-F<br>IC2 EPR-12368-62|
+|Space Harrier II|August 1988*|610-0239-02<br>837-6963-02|171-5782|512KB (Megadrive)|IC1 MPR-11934<br>IC2 EPR-12368-02|
+|Spider-Man Vs. The Kingpin|April 1991*|610-0239-54<br>837-6963-02|171-5782|512KB (Megadrive)|IC1 MPR-14027-SM<br>IC2 EPR-12368-54|
+|Streets of Rage|May 1991*|610-0239-51<br>837-6963-51|171-5782|512KB (Megadrive)|IC1 MPR-14125-SM<br>IC2 EPR-12368-51|
+|Super Hang-On|July 1989*|610-0239-24<br>837-6963-24|171-5782|512KB (Megadrive)|IC1 MPR-12640<br>IC2 EPR-12368-24|
 |Super Monaco GP|June 1990*|610-0239-39||512KB (Megadrive)|
-|Super Real Basketball|January 1989*|610-0239-32<br>837-6963-32|171-5782|512KB (Megadrive). ROM not reversed|
+|Super Real Basketball|January 1989*|610-0239-32<br>837-6963-32|171-5782|512KB (Megadrive). ROM not reversed|IC1 MPR-12904F<br>IC2 EPR-12368-32|
 |Super Thunder Blade|August 1988*|610-0239-03||512KB (Megadrive)|
-|Tetris|January 1989|610-0239-22<br>837-6963-22|171-5834|128KBx2 (Megadrive). Interlacing ROM files into single 256KB file works.|
-|The Revenge of Shinobi|September 1989*|610-0239-28<br>837-6963-28|171-5782|512KB (Megadrive)|
+|Tetris|January 1989|610-0239-22<br>837-6963-22|171-5834|128KBx2 (Megadrive). Interlacing ROM files into single 256KB file works.|IC1 MPR-12356F<br>IC2 MPR-12357F<br>IC3 EPR-12368-22|
+|The Revenge of Shinobi|September 1989*|610-0239-28<br>837-6963-28|171-5782|512KB (Megadrive)|IC1 MPR-12675 S44<br>IC2 EPR-12368-28|
 |Thunder Force II|April 1989*|610-0239-11||512KB (Megadrive)|
-|Tommy Lasorda Baseball (aka Super League)|May 1989*|610-0239-35<br>837-6963-35|171-5782|512KB (Megadrive)|
-|Turbo OutRun|December 1991*|610-0239-61<br>837-6963-61|171-5782|512KB (Megadrive)|
+|Tommy Lasorda Baseball (aka Super League)|May 1989*|610-0239-35<br>837-6963-35|171-5782|512KB (Megadrive)|IC1 MPR-12706F<br>IC2 EPR-12368-35|
+|Turbo OutRun|December 1991*|610-0239-61<br>837-6963-61|171-5782|512KB (Megadrive)|IC1 MPR-14674<br>IC2 EPR-12368-61|
 |World Championship Soccer|May 1989*|610-0239-21<br>837-6963-21|171-5782|512KB (Megadrive)|IC1 MPR-12607B<br>IC2 EPR-12368-21|
-|Wrestle War|1991*|610-0239-48<br>837-6963-48|171-5782|512KB (Megadrive)|
+|Wrestle War|1991*|610-0239-48<br>837-6963-48|171-5782|512KB (Megadrive)|IC1 MPR-14025-F<br>IC2 EPR-12368-48|
 
 *Copyright based on contents of ROM file
 
