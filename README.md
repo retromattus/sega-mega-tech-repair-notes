@@ -16,6 +16,8 @@
 
 # Known Released Games
 
+## PCBs
+
 |PCB|Year|Notes|
 |--|--|--|
 |171-5782|1989|2 ROMs. Megadrive|
@@ -24,6 +26,8 @@
 |171-5834|1989|3 ROMs. Californa Games & Tetris|
 |171-5869A|1989|3 ROMs. Ghouls'n Ghosts|
 |171-6215A|1991|2 ROMs. Sonic 2|
+
+## Sega Mega Tech
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
@@ -76,6 +80,19 @@
 |Wrestle War|1991*|610-0239-48<br>837-6963-48|171-5782|512KB (Megadrive)|IC1 MPR-14025-F<br>IC2 EPR-12368-48|
 
 *Copyright based on contents of ROM file
+
+## Sega Mega-6
+
+|Name|Copyright|Serial number|Board number|Notes||
+|--|--|--|--|--|--|
+|Alien Syndrome||610-0240-05|
+|Ghouls'n Ghosts||610-0240-11|
+|Jyuohki||610-0240-01|
+|Out Run|||
+|Shinobi||610-0240-06|
+|Space Harrier II|||
+|Super Thunder Blade|||
+|Tetris||610-0240-07|
 
 ## Writing cartridges
 
