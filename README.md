@@ -132,8 +132,3 @@ To write a ROM file
 ```bash
 > minipro -p M27C256B@DIP28 -y -w rom.bin
 ```
-
-## Cartridge label sizes
-
-**Front** - 80 x 72 mm
-**Back** - 80 x 24 mm
