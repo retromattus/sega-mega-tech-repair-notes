@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8000 2400" height="24mm" width="80mm" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="0" y="0" angle="90"/>
+    <bx:guide x="0" y="0" angle="0"/>
+    <bx:guide x="0" y="2400" angle="90"/>
+    <bx:guide x="8000" y="0" angle="0"/>
+  </defs>
+  <text style="font-family: Futura; font-size: 89.4403px; font-weight: 700; line-height: 143.105px; stroke: rgb(0, 0, 0); stroke-width: 2.12953px; white-space: pre;" transform="matrix(2.332107, 0, 0, 2.332107, -1028.100586, -6793.415527)"><tspan x="576.885" y="3081.9">PRECAUTIONS to be taken in order to use the cartridge properly :</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>   Since this is a precision machine, pay careful attention when</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>			handling it.</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>			Do not expose the unit to sources of extremely high or low</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>			temperatures.</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>			Do not subject the game to severe shocks or disassemble it.</tspan><tspan x="576.885" dy="1.44em">​</tspan><tspan>			Do not touch the terminals or cause them to become wet.</tspan></text>
+  <ellipse style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 15px;" cx="428.858" cy="615.154" rx="58.432" ry="58.432"/>
+  <ellipse style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 15px;" cx="428.832" cy="1213.46" rx="58.432" ry="58.432"/>
+  <ellipse style="fill: none; stroke-width: 15px; stroke: rgb(0, 0, 0);" cx="428.832" cy="1817.52" rx="58.432" ry="58.432"/>
+  <ellipse style="fill: none; stroke-width: 15; stroke: rgb(0, 0, 0);" cx="428.832" cy="2117.51" rx="58.432" ry="58.432"/>
+</svg>
