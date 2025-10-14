@@ -12,6 +12,13 @@
 |19|220-5254|SE 0906|2|Key Master for 220-5253|Sega/Miwa 5253 Key|
 |26||CM 0711|1|Assy Coin Mech & Chute Sentinal 4 Way|Coin Controls Sentinel Electronic Coin Mech C220 [Manual](Manuals/Sentinel+Tech+Manual+V0.pdf)|
 
+## Manual Page 35
+
+|Drw No.|Sega Part Number|D L Part Number|Qty per|Description|Notes|
+|--|--|--|--|--|--|
+|101|220-5219|EL 0185|2|Rheo Stat 100 Ohn 10w|Chiba RVF10 a suitable replacement?|
+|102|601-0042|EL 0263|2|Knob 22mm||
+|103|509-5028|SE 1328|3|Sw PB 1m|In later arcade machines the same part is round and quoted as MIYAMA DS-412R|
 
 
 # Known Released Games
