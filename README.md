@@ -127,7 +127,7 @@ Using the ADP_D42_EX-A adapter, place chip with one pin empty at the top.
 To verify it is blank
 
 ```bash
-> minipro --device 'AM27C4096@DIP40' --skip_id --blank_check
+> minipro --device HN27C4000G@DIP40 --skip_id --blank_check
 ```
 
 
