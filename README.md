@@ -103,6 +103,23 @@
 
 ## Writing cartridges
 
+For 27C800 chips (1MB ROM files)
+
+No adapter
+
+To verify it is blank
+
+```bash
+minipro -p M27C800@DIP42 --blank_check
+```
+
+To write a ROM file
+
+```bash
+> minipro -p M27C800@DIP42 -y -w rom.bin
+```
+
+
 For 27C400 chips (512k ROM files)
 
 Using the ADP_D42_EX-A adapter, place chip with one pin empty at the top.
