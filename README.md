@@ -92,7 +92,7 @@
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
-|Alien Syndrome||610-0240-05|
+|Alien Syndrome||610-0240-05|Mark-III|
 |Ghouls'n Ghosts||610-0240-11|
 |Jyuohki||610-0240-01|
 |Out Run|||
