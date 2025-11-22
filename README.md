@@ -72,7 +72,7 @@ Note: Pinout unknown as Sega never released a gun or gun games for this platform
 |20|Ground|White|
 |21|||
 
-## Connector CN4 (1P)
+## Connector CN7 (2P)
 
 JST NH 11P
 
