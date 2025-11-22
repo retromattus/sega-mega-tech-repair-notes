@@ -21,6 +21,77 @@
 |103|509-5028|SE 1328|3|Sw PB 1m|In later arcade machines the same part is round and quoted as MIYAMA DS-412R|
 
 
+# Connectors
+
+## Connector CN4 (1P)
+
+JST NH 10P
+
+|Pin|Definition|Wire colour|
+|-|-|-|
+|1|1P Up*|Pink|
+|2|1P Down*|Light Blue|
+|3|1P Left*|Tan|
+|4|1P Right*|Purple|
+|5|1P Shot 1*|Brown|
+|6|1P Shot 2*|Orange|
+|7|1P Shot 3*|Black|
+|8|1P Start*|Gray|
+|9|Ground|White|
+|10|Ground|White|
+
+*Wired as NO (Normally Open)
+
+## Connector CN5 (Gun)
+
+JST NH 21P
+
+Note: Pinout unknown as Sega never released a gun or gun games for this platform.
+
+|Pin|Definition|Wire colour|
+|-|-|-|
+|1|||
+|2|||
+|3|||
+|4|||
+|5|+5VDC|Yellow|
+|6|||
+|7|||
+|8|Ground|White|
+|9|||
+|10|||
+|11|||
+|12|||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|+5VDC|Yellow|
+|18|||
+|19|||
+|20|Ground|White|
+|21|||
+
+## Connector CN4 (1P)
+
+JST NH 11P
+
+|Pin|Definition|Wire colour|
+|-|-|-|
+|1|2P Up*|Pink/White|
+|2|2P Down*|Light Blue/White|
+|3|2P Left*|Tan/White|
+|4|2P Right*|Purple/White|
+|5|2P Shot 1*|Brown/White|
+|6|2P Shot 2*|Orange/White|
+|7|2P Shot 3*|Black/White|
+|8|2P Start*|Gray/White|
+|9|Ground|White|
+|10|Ground|White|
+
+*Wired as NO (Normally Open)
+
+
 # Known Released Games
 
 ## PCBs
