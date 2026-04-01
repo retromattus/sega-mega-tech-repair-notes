@@ -82,11 +82,15 @@
 
 |Name|Copyright|Serial number|Board number|Notes||
 |--|--|--|--|--|--|
-|Bio-Hazard Battle||610-0298-06<br>837-9165-06|171-6215A|1MB (Megadrive)|IC1 MPR-15699-F<br>IC2 EPR-15175-06|
+|Bio-Hazard Battle|September 1992*|610-0298-06<br>837-9165-06|171-6215A|1MB (Megadrive)|IC1 MPR-15699-F<br>IC2 EPR-15175-06|
+|Columns III: Revenge of Columns|June 1993*|610-0297-04**|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 2<br>IC2 3<br>IC3 1|
+|Golden Axe II|October 1991*|610-0297-02|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EPR-15178-B<br>IC2 EPR-15179-B<br>IC3 EPR-15175-02B|
 
-Bio-Hazard Battle (199x)
-Columns III: Revenge of Columns (199x)
-Golden Axe II (199x)
+
+*Copyright based on contents of ROM file
+**This is the code for Tecmo World Cup, as the ROMs in the Columns 3 cart didn't have original Sega part numbers it's probably a converted TWC cart
+
+
 GrandSlam: The Tennis Tournament '92 (199x)
 Gunstar Heroes (199x)
 Mazin Saga: Mutant Fighter (199x)
