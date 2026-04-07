@@ -105,7 +105,9 @@ Tecmo World Cup '92 (199x)
 
 For 27C800 chips (1MB ROM files)
 
-No adapter
+Using the ADP_D42_EX-A adapter, there are no empty pins.
+
+
 
 To verify it is blank
 
