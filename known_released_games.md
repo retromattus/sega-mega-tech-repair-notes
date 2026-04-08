@@ -107,7 +107,7 @@ For 27C800 chips (1MB ROM files)
 
 Using the ADP_D42_EX-A adapter, there are no empty pins.
 
-
+<img src="./27C800.jpg" data-canonical-src="./27C800.jpg" width="250" />
 
 To verify it is blank
 
@@ -125,6 +125,8 @@ To write a ROM file
 For 27C400 chips (512k ROM files)
 
 Using the ADP_D42_EX-A adapter, place chip with one pin empty at the top.
+
+<img src="./27C400.jpg" data-canonical-src="./27C400.jpg" width="250" />
 
 To verify it is blank
 
@@ -146,6 +148,8 @@ To write a ROM file
 For M27C256B chips
 
 Don't use the adapter. Insert as denoted on the device.
+
+<img src="./27C256B.jpg" data-canonical-src="./27C256B.jpg" width="250" />
 
 To verify it is blank
 
