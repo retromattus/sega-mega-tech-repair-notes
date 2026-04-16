@@ -85,18 +85,15 @@
 |Bio-Hazard Battle|September 1992*|610-0298-06<br>837-9165-06|171-6215A|1MB (Megadrive)|IC1 MPR-15699-F<br>IC2 EPR-15175-06|
 |Columns III: Revenge of Columns|June 1993*|610-0297-04**|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 2<br>IC2 3<br>IC3 1|
 |Golden Axe II|October 1991*|610-0297-02|171-5834|256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EPR-15178-B<br>IC2 EPR-15179-B<br>IC3 EPR-15175-02B|
+|GrandSlam: The Tennis Tournament '92|199x|||256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EPR-15180.IC1 256KB<br>IC2 EPR-15181.IC2 256KB<br>IC3 EPR-15175-03.IC3|
+|Gunstar Heroes|199x|||1MB (Megadrive)|IC1 MPR-16390.IC1 1MB<br>IC2 EPR-15175-10.IC2|
+|Mazin Saga: Mutant Fighter|199x|||1MB (Megadrive)|IC1 MPR-16460.IC1<br>IC2 EPR-15175-11.IC2 1MB|
+|Shinobi III: Return of the Ninja Master|199x|||1MB (Megadrive)|IC1 MPR-16197.IC1<br>IC2 EPR-15175-09.IC2 1MB|
+|Sonic the Hedgehog|199x|||256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EP15176.IC1 256KB<br>IC2 EP15177.IC2 256KB<br>IC3 EP15175-01.IC3|
+|Sonic the Hedgehog 2|199x|||1MB (Megadrive)|IC1 MPR-16011.IC1 1MB<br>IC2 EPR-15175-07.IC2|
+|Streets of Rage 2|199x|||2MB (Megadrive)|IC1 MPR-15425.IC1 2MB<br>IC2 EPR-15175-05.IC2|
+|Tecmo World Cup '92|199x|||256KBx2 (Megadrive). Interlacing ROM files into single 512KB file works.|IC1 EP15182.IC1 256K<br>IC2 EP15183.IC2 256K<br>IC3 EP15175-04.IC3|
 
 
 *Copyright based on contents of ROM file
 **This is the code for Tecmo World Cup, as the ROMs in the Columns 3 cart didn't have original Sega part numbers it's probably a converted TWC cart
-
-
-GrandSlam: The Tennis Tournament '92 (199x)
-Gunstar Heroes (199x)
-Mazin Saga: Mutant Fighter (199x)
-Shinobi III: Return of the Ninja Master (199x)
-Sonic the Hedgehog (199x)
-Sonic the Hedgehog 2 (199x)
-Streets of Rage (199x)
-Streets of Rage 2 (199x)
-Tecmo World Cup '92 (199x)
