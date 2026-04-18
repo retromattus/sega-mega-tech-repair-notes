@@ -38,7 +38,7 @@
 |Great Soccer|1989|610-0239-05<br>837-6963-05|171-5783|128KB (SMS)|IC1 MPR-10747-F<br>IC2 EPR-12368-05|
 |Joe Montana II — Sports Talk Football|September 1991*|610-0239-58<br>837-6963-58|171-5782|1MB (Megadrive)|IC1 MPR-14356A-F<br>IC2 EPR-12368-58|
 |Kid Chameleon|December 1991*|610-0239-60<br>837-6963-60|171-5782|1MB (Megadrive)|IC1 MPR-14557<br>IC2 EPR-12368-60|
-|Last Battle (Legend of the Final Hero)|April 1989*|610-0239-20<br>837-6963-20|171-5782|512KB (Megadrive)|IC1 MPR-12578F<br>IC2 EPR-12368-20|
+|Last Battle (Legend of the Final Hero)|April 1989*|610-0239-20<br>837-6963-20|171-5782|512KB (Megadrive)|IC1 MPR-12578F (crc32=531191a0 sha1=f6bc26e975c01a3e10ab4033e4c5f494627a1e2f)<br>IC2 EPR-12368-20|
 |Mario Lemieux Hockey|September 1991*|610-0239-59<br>837-6963-59|171-5782|512KB (Megadrive)|IC1 MPR-14376-H<br>IC2 EPR-12368-59|
 |Michael Jackson's Moonwalker|July 1990*|610-0239-40<br>837-6963-40|171-5782|512KB (Megadrive)|IC1 MPR-13285A-F<br>IC2 EPR-12368-40|
 |Mystic Defender|August 1989*|610-0239-27<br>837-6963-27|171-5782|512KB (Megadrive)|IC1 MPR-12707.1<br>IC2 EPR-12368-27|
