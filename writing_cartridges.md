@@ -1,5 +1,8 @@
 # Writing cartridges
 
+A reproduction Sega Mega Tech cartridge PCB design, including Gerbers for
+fabrication, is available from https://github.com/mourix/Mega-Tech-Cartridges.
+
 ## Game ROMs
 
 ### Verify correct byte-order
