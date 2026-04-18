@@ -60,7 +60,7 @@
 |Thunder Force II|April 1989*|610-0239-11<br>837-6963-11|171-5782|512KB (Megadrive)|IC1 MPR-12559<br>IC2 EPR-12368-11|
 |Tommy Lasorda Baseball (aka Super League)|May 1989*|610-0239-35<br>837-6963-35|171-5782|512KB (Megadrive)|IC1 MPR-12706F<br>IC2 EPR-12368-35|
 |Turbo OutRun|December 1991*|610-0239-61<br>837-6963-61|171-5782|512KB (Megadrive)|IC1 MPR-14674<br>IC2 EPR-12368-61|
-|World Championship Soccer|May 1989*|610-0239-21<br>837-6963-21|171-5782|512KB (Megadrive)|IC1 MPR-12607B<br>IC2 EPR-12368-21|
+|World Championship Soccer|May 1989*|610-0239-21<br>837-6963-21|171-5782|256KB (Megadrive). Incorrect dumps show as 512KB.|IC1 MPR-12607B (crc32=5f90a696 sha1=dc68a3c24c60fd131b1e364528b7779f9cf72b0e)<br>IC2 EPR-12368-21 (crc32=028ee46b sha1=cd8f81d66e5ae62107eb20e0ca5db4b66d4b2987)|
 |Wrestle War|1991*|610-0239-48<br>837-6963-48|171-5782|512KB (Megadrive)|IC1 MPR-14025-F<br>IC2 EPR-12368-48|
 
 *Copyright based on contents of ROM file
