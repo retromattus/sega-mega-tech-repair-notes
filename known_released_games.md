@@ -13,8 +13,8 @@
 
 ## Sega Mega Tech
 
-|Name|Copyright|Serial number|Board number|Notes||
-|--|--|--|--|--|--|
+|Name|Copyright|Serial number|Board number|ROM size|ROM labels|Images|
+|--|--|--|--|--|--|--|
 |After Burner|1989|610-0239-10<br>837-6963-10|171-5784|512KB (SMS)|IC1 315-5235<br>IC2 MPR-11271-T<br>IC3 EPR-12368-10|
 |Alien Storm|June 1991*|610-0239-47<br>837-6963-47|171-5782|512KB (Megadrive)|IC1 MPR-13941<br>IC2 EPR-12368-47|
 |Alien Syndrome|1989|610-0239-07<br>837-6963-07|171-5783|256KB (SMS)|IC1 MPR-11194<br>IC2 EPR-12368-07|
@@ -31,19 +31,19 @@
 |Fire Shark|August 1990*|610-0239-53<br>837-6963-53|171-5782|512KB (Megadrive)|IC1 MPR-14341<br>IC2 EPR-12368-53|
 |Forgotten Worlds|September 1989*|610-0239-26<br>837-6963-26|171-5782|512KB (Megadrive). ROM files byte reversed|IC1 MPR-12672-H<br>IC2 EPR-12368-26|
 |Ghouls'n Ghosts|June 1989*|610-0239-23|171-5869A|128KB+512KB (Megadrive)|IC1 MPR-12605<br>IC2 MPR-12606<br>IC3 EPR-12368-23|
-|Golden Axe|October 1989*|610-0239-25<br>837-6963-25|171-5782|512KB (Megadrive)|IC1 MPR-12806F (crc32=43456820 sha1=2f7f1fcd979969ac99426f11ab99999a5494a121)<br>IC2 EPR-12368-25 (crc32=1f07ed28 sha1=9d54192f4c6c1f8a51c38a835c1dd1e4e3e8279e)|
+|Golden Axe|October 1989*|610-0239-25<br>837-6963-25|171-5782|512KB (Megadrive)|IC1 MPR-12806F (crc32=43456820 sha1=2f7f1fcd979969ac99426f11ab99999a5494a121)<br>IC2 EPR-12368-25 (crc32=1f07ed28 sha1=9d54192f4c6c1f8a51c38a835c1dd1e4e3e8279e)|[front](images/games/megatech/golden-axe/front.jpg) [back](images/games/megatech/golden-axe/back.jpg) [top](images/games/megatech/golden-axe/top.jpg)|
 |Golden Axe II|October 1991*|610-0239-57<br>837-6963-57|171-5782|512KB (Megadrive)|IC1 MPR-14272<br>IC2 EPR-12368-57|
 |Great Football|1989|610-0239-19<br>837-6963-19|171-5783|128KB (SMS)|IC1 MPR-10576F<br>IC2 EPR-12368-19|
-|Great Golf|1989|610-0239-04<br>837-6963-04|171-5783|128KB (SMS)|IC1 MPR-11192 (crc32=98e4ae4a sha1=3c0b12cfb70f2515429b6e88e0753d69dbb907ab)<br>IC2 EPR-12368-04 (crc32=62e5579b sha1=e1f531be5c40a1216d4192baeda9352384444410)|
+|Great Golf|1989|610-0239-04<br>837-6963-04|171-5783|128KB (SMS)|IC1 MPR-11192 (crc32=98e4ae4a sha1=3c0b12cfb70f2515429b6e88e0753d69dbb907ab)<br>IC2 EPR-12368-04 (crc32=62e5579b sha1=e1f531be5c40a1216d4192baeda9352384444410)|[front](images/games/megatech/great-golf/front.jpg) [back](images/games/megatech/great-golf/back.jpg) [top](images/games/megatech/great-golf/top.jpg) [pcb](images/games/megatech/great-golf/pcb.jpg)|
 |Great Soccer|1989|610-0239-05<br>837-6963-05|171-5783|128KB (SMS)|IC1 MPR-10747-F<br>IC2 EPR-12368-05|
 |Joe Montana II — Sports Talk Football|September 1991*|610-0239-58<br>837-6963-58|171-5782|1MB (Megadrive)|IC1 MPR-14356A-F<br>IC2 EPR-12368-58|
 |Kid Chameleon|December 1991*|610-0239-60<br>837-6963-60|171-5782|1MB (Megadrive)|IC1 MPR-14557<br>IC2 EPR-12368-60|
-|Last Battle (Legend of the Final Hero)|April 1989*|610-0239-20<br>837-6963-20|171-5782|512KB (Megadrive)|IC1 MPR-12578F (crc32=531191a0 sha1=f6bc26e975c01a3e10ab4033e4c5f494627a1e2f)<br>IC2 EPR-12368-20 (crc32=e1a71c91 sha1=c250da18660d8aea86eb2abace41ba46130dabc8)|
+|Last Battle (Legend of the Final Hero)|April 1989*|610-0239-20<br>837-6963-20|171-5782|512KB (Megadrive)|IC1 MPR-12578F (crc32=531191a0 sha1=f6bc26e975c01a3e10ab4033e4c5f494627a1e2f)<br>IC2 EPR-12368-20 (crc32=e1a71c91 sha1=c250da18660d8aea86eb2abace41ba46130dabc8)|[front](images/games/megatech/last-battle/front.jpg) [back](images/games/megatech/last-battle/back.jpg) [top](images/games/megatech/last-battle/top.jpg)|
 |Mario Lemieux Hockey|September 1991*|610-0239-59<br>837-6963-59|171-5782|512KB (Megadrive)|IC1 MPR-14376-H<br>IC2 EPR-12368-59|
 |Michael Jackson's Moonwalker|July 1990*|610-0239-40<br>837-6963-40|171-5782|512KB (Megadrive)|IC1 MPR-13285A-F<br>IC2 EPR-12368-40|
 |Mystic Defender|August 1989*|610-0239-27<br>837-6963-27|171-5782|512KB (Megadrive)|IC1 MPR-12707.1<br>IC2 EPR-12368-27|
 |OutRun|1989|610-0239-06<br>837-6963-06|171-5783|256KB (SMS)|IC1 MPR-11078<br>IC2 EPR-12368-06|
-|Parlour Games|1989|610-0239-29<br>837-6963-29|171-5783|128KB (SMS)|IC1 MPR-11404F (crc32=e030e66c sha1=06664daf208f07cb00b603b12eccfc3f01213a17)<br>IC2 EPR-12368-29 (crc32=534151e8 sha1=219238d90c1d3ac07ff64c9a2098b490fff68f04)|
+|Parlour Games|1989|610-0239-29<br>837-6963-29|171-5783|128KB (SMS)|IC1 MPR-11404F (crc32=e030e66c sha1=06664daf208f07cb00b603b12eccfc3f01213a17)<br>IC2 EPR-12368-29 (crc32=534151e8 sha1=219238d90c1d3ac07ff64c9a2098b490fff68f04)|[front](images/games/megatech/parlour-games/front.jpg) [back](images/games/megatech/parlour-games/back.jpg) [top](images/games/megatech/parlour-games/top.jpg)|
 |Shadow Dancer|December 1990*|610-0239-43<br>837-6963-43|171-5782|512KB (Megadrive)|IC1 MPR-13571-S<br>IC2 EPR-12368-43|
 |Shinobi|1989|610-0239-08<br>837-6963-08|171-5783|256KB (SMS)|IC1 MPR-11706<br>IC2 EPR-12368-08|
 |Sonic The Hedgehog|April 1991*|610-0239-52<br>837-6963-52|171-5782|512KB (Megadrive)|IC1 MPR-13913-F<br>IC2 EPR-12368-52|
@@ -60,7 +60,7 @@
 |Thunder Force II|April 1989*|610-0239-11<br>837-6963-11|171-5782|512KB (Megadrive)|IC1 MPR-12559<br>IC2 EPR-12368-11|
 |Tommy Lasorda Baseball (aka Super League)|May 1989*|610-0239-35<br>837-6963-35|171-5782|512KB (Megadrive)|IC1 MPR-12706F<br>IC2 EPR-12368-35|
 |Turbo OutRun|December 1991*|610-0239-61<br>837-6963-61|171-5782|512KB (Megadrive)|IC1 MPR-14674<br>IC2 EPR-12368-61|
-|World Championship Soccer|May 1989*|610-0239-21<br>837-6963-21|171-5782|256KB (Megadrive). Overdumps show as 512KB.|IC1 MPR-12607B (crc32=5f90a696 sha1=dc68a3c24c60fd131b1e364528b7779f9cf72b0e)<br>IC2 EPR-12368-21 (crc32=028ee46b sha1=cd8f81d66e5ae62107eb20e0ca5db4b66d4b2987)|
+|World Championship Soccer|May 1989*|610-0239-21<br>837-6963-21|171-5782|256KB (Megadrive). Overdumps show as 512KB.|IC1 MPR-12607B (crc32=5f90a696 sha1=dc68a3c24c60fd131b1e364528b7779f9cf72b0e)<br>IC2 EPR-12368-21 (crc32=028ee46b sha1=cd8f81d66e5ae62107eb20e0ca5db4b66d4b2987)|[front](images/games/megatech/world-championship-soccer/front.jpg) [back](images/games/megatech/world-championship-soccer/back.jpg) [top](images/games/megatech/world-championship-soccer/top.jpg)|
 |Wrestle War|1991*|610-0239-48<br>837-6963-48|171-5782|512KB (Megadrive)|IC1 MPR-14025-F<br>IC2 EPR-12368-48|
 
 *Copyright based on contents of ROM file
