@@ -21,7 +21,7 @@
 |Altered Beast|January 1989*|610-0239-01<br>837-6963-01|171-5782<br><details><summary>IC1 MPR-12538F</summary>512KB (Megadrive)</details><details><summary>IC2 EPR-12368-01</summary>32KB</details>||
 |Arnold Palmer Tournament Golf|June 1989*|610-0239-31<br>837-6963-31|171-5782<br><details><summary>IC1 MPR-12645F</summary>512KB (Megadrive)</details><details><summary>IC2 EPR-12368-31</summary>32KB</details>||
 |Arrow Flash|July 1990*|610-0239-44<br>837-6963-44|171-5782<br><details><summary>IC1 MPR-13396-H</summary>512KB (Megadrive)</details><details><summary>IC2 EPR-12368-44</summary>32KB</details>||
-|Astro Warrior|1989|610-0239-13<br>837-6963-13|171-5783<br><details><summary>IC1 EPR-12368-13</summary>32KB</details><details><summary>IC2 EPR-13817</summary>128KB (SMS)</details>||
+|Astro Warrior|1989|610-0239-13<br>837-6963-13|171-5783<br><details><summary>IC1 EPR-13817</summary>128KB (SMS)</details><details><summary>IC2 EPR-12368-13</summary>32KB</details>||
 |Bonanza Bros.|July 1991*|610-0239-49<br>837-6963-49|171-5782<br><details><summary>IC1 MPR-13905A-F</summary>1MB (Megadrive)</details><details><summary>IC2 EPR-12368-49</summary>32KB</details>||
 |California Games|August 1991*|610-0239-55<br>837-6963-55-01|171-5834<br>Interlacing ROM files into single 512KB file works.<br><details><summary>IC1 EPR-14494</summary>256KB (Megadrive)</details><details><summary>IC2 EPR-14495</summary>256KB</details><details><summary>IC3 EPR-12368-55</summary>32KB</details>||
 |Columns|April 1990*|610-0239-36<br>837-6963-36|171-5782<br><details><summary>IC1 MPR-13193-T</summary>512KB (Megadrive)</details><details><summary>IC2 EPR-12368-36</summary>32KB</details>||
