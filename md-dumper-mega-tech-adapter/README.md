@@ -25,4 +25,5 @@ Mega Sg by switching between the game ROM and header ROM.
 | Surface finish | ENIG |
 | Gold thickness | 1U" |
 | Gold fingers | Yes |
+| Beveling | 30° |
 | Mark on PCB | Order Number (Specify Position) |
