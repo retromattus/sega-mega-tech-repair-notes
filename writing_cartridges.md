@@ -39,6 +39,24 @@ To write a ROM file
 > minipro -p M27C800@DIP42 -y -w rom.bin
 ```
 
+### 2MB game ROM files
+
+Use a 27C160 chip with the ADP_D42_EX-A adapter in the XGecu T48 programmer; there are no gaps in the adapter.
+
+<img src="./27C160.jpg" data-canonical-src="./27C160.jpg" width="250" />
+
+To verify it is blank
+
+```bash
+minipro --device M27C160@DIP42 --skip_id --blank_check
+```
+
+To write a ROM file
+
+```bash
+minipro -p M27C160@DIP42 -y -w rom.bin
+```
+
 ### 512k game ROM files
 
 Use a 27C400 chip with the ADP_D42_EX-A adapter in the XGecu T48 programmer, and place the chip with one pin empty at the top.
