@@ -13,7 +13,7 @@ Mega Sg by switching between the game ROM and header ROM.
 
 | Part | Notes | Links |
 |--|--|--|
-| Alps Alpine Through Hole Slide Switch DPDT `SSSF121900` | ROM selector switch | [RS 123-8907](https://uk.rs-online.com/web/p/slide-switches/1238907)<br>[Mouser 688-SSF121900](https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SSSF121900) |
+| Alps Alpine Through Hole Slide Switch DPDT `SSSF121900` | ROM selector switch | [RS 123-8907](https://uk.rs-online.com/web/p/slide-switches/1238907)<br>[Mouser 688-SSF121900](https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SSSF121900)<br>[LCSC C97449](https://www.lcsc.com/product-detail/C97449.html) |
 | Megadrive 64p cartridge slot | Cartridge connector | [AliExpress](https://www.aliexpress.com/item/1005009621566306.html) |
 
 ## Manufacturing
