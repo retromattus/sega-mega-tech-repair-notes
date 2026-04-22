@@ -43,3 +43,17 @@ Set the switch on the adapter to `Menu` and use manual mode:
 ```bash
 ./MD_Dumper -read manual 32 sms
 ```
+
+To verify the checksum:
+
+CRC32:
+
+```bash
+crc32 dump_sms.bin
+```
+
+SHA1:
+
+```bash
+sha1 dump_sms.bin
+```
